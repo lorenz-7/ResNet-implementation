@@ -11,5 +11,5 @@
 #### It won the ImageNet Challenge 2015 and has been much improved since then.
 #### The explanation can be found in this paper: https://arxiv.org/pdf/1512.03385.pdf
 ------
-![image](https://user-images.githubusercontent.com/88616547/177297622-5b7fff36-c5ee-4a2e-939e-fed1beb9e258.png)
-###### https://www.researchgate.net/publication/331364877/figure/fig3/AS:741856270901252@1553883726825/Left-ResNet50-architecture-Blocks-with-dotted-line-represents-modules-that-might-be.png)
+![image](https://user-images.githubusercontent.com/88616547/177298196-464a59af-137f-4249-97ad-686f2c7cc76a.png)
+###### https://jananisbabu.github.io/ResNet50_From_Scratch_Tensorflow/images/resnet50.png
