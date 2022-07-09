@@ -6,6 +6,7 @@
 - #### matplotlib
 - #### time
 - #### numpy
+- #### pillow
 ------
 #### ResNet (Residual Neural Network) is mainly used for image classification.
 #### It won the ImageNet Challenge 2015 and has been much improved since then.
